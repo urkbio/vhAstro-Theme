@@ -112,7 +112,7 @@ export default {
     // 侧边栏广告(不填不开启)
     asideAD_Slot: `<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4794157925903709" data-ad-slot="5326559858" data-ad-format="auto" data-full-width-responsive="true"></ins>`,
     // 文章页广告(不填不开启)
-    articleAD_Slot: `<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4794157925903709" data-ad-slot="1321464723"></ins>`
+    articleAD_Slot: `<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-4794157925903709" data-ad-slot="6084143723"></ins>`
   },
   // 文章内赞赏码
   // Reward: {
