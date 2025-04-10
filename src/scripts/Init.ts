@@ -24,9 +24,9 @@ import initWebSiteTime from "@/scripts/Footer";
 // 友情链接初始化
 import initLinks from "@/scripts/Links";
 // 朋友圈 RSS 初始化
-import initFriends from "@/scripts/Friends";
+// import initFriends from "@/scripts/Friends";
 // 动态说说初始化
-import initTalking from "@/scripts/Talking";
+// import initTalking from "@/scripts/Talking";
 // 文章评论初始化
 import { checkComment, commentInit } from "@/scripts/Comment";
 // 移动端侧边栏初始化
@@ -68,9 +68,9 @@ const indexInit = async (only: boolean = true) => {
   // 友情链接初始化
   initLinks();
   // 朋友圈 RSS 初始化
-  initFriends();
+  // initFriends();
   // 动态说说初始化
-  initTalking();
+  // initTalking();
   // Google 广告
   GoogleAdInit();
   // 谷歌 SEO 推送
