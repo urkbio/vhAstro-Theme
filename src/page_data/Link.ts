@@ -10,10 +10,16 @@ export default {
       "descr": "运气是计划之外的东西."
     },
     {
-      "name": "韩小韩API",
-      "link": "https://api.vvhan.com",
-      "avatar": "https://api.vvhan.com/static/images/logo.webp",
-      "descr": "免费Web API数据接口调用服务平台."
+      "name": "老朱独立开发",
+      "link": "https://ilaozhu.com/",
+      "avatar": "/assets/images/others/laozhu-logo.png",
+      // "descr": "免费Web API数据接口调用服务平台."
+    },
+    {
+      "name": "IFDESS",
+      "link": "https://ifdess.cn/",
+      // "avatar": "/assets/images/others/laozhu-logo.png",
+      "descr": "这是一本关于 IFDESS 的书"
     }
   ]
 }
