@@ -2,7 +2,7 @@ export default {
   // 网站标题
   Title: '封闭脑袋',
   // 网站地址
-  Site: 'https://www.joomaen.com',
+  Site: 'https://astro.joomaen.com',
   // 网站副标题
   Subtitle: '零落残魂何处断',
   // 网站描述
