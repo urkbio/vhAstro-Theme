@@ -6,8 +6,9 @@ tags:
   - RSS
 id: min-browser-as-reader
 date: 2025-04-09 21:56:20
-updated: 2025-04-09
+updated: 2025-04-13
 recommend: true
+cover: "https://b2.235421.xyz/pic/2025/04/17693eb71eb75b4f23e33a07f1d9032b.avif"
 ---
 
 :::note{type="success"}

@@ -14,7 +14,7 @@ type: "links"
 
 ```yaml
 name: 封闭脑袋
-link: https://astro.joomaen.com/
+link: https://www.joomaen.com/
 avatar: https://media.235421.xyz/favicon.png
 desc: 零落残魂何处断
 ```

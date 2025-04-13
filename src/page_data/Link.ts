@@ -12,14 +12,14 @@ export default {
     {
       "name": "老朱独立开发",
       "link": "https://ilaozhu.com/",
-      "avatar": "/assets/images/others/laozhu-logo.png",
-      // "descr": "免费Web API数据接口调用服务平台."
+      "avatar": "https://ilaozhu.com/usr/themes/WaterDrop/static/images/avatar.jpg",
+      "descr": "用智慧打破边界，以代码书写未来"
     },
     {
       "name": "IFDESS",
       "link": "https://ifdess.cn/",
-      // "avatar": "/assets/images/others/laozhu-logo.png",
-      "descr": "这是一本关于 IFDESS 的书"
+      "avatar": "https://static.ifdess.cn/img/avatar.jpg",
+      "descr": "这是一本记录IFDESS的经历和感悟的书"
     }
   ]
 }
