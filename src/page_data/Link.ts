@@ -20,6 +20,12 @@ export default {
       "link": "https://ifdess.cn/",
       "avatar": "https://static.ifdess.cn/img/avatar.jpg",
       "descr": "这是一本记录IFDESS的经历和感悟的书"
+    },
+    {
+      "name": "早早集市",
+      "link": "https://zzao.club/",
+      "avatar": "https://zzao.club/favicon.ico",
+      "descr": "人生游戏DLC"
     }
   ]
 }
