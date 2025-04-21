@@ -31,6 +31,20 @@ chmod +x /usr/local/bin/snell-server
 snell-server --wizard -c /etc/snell/snell-server.conf
 ```
 
+### 或者自己编写一个
+
+```
+vim /etc/snell/snell-server.conf
+```
+
+将下面的复制粘贴进去
+```
+[snell-server]
+listen = 0.0.0.0:11807
+psk = AijHCeos15IvqDZTb1cJMX5GcgZzIVE
+ipv6 = false
+```
+
 #### 配置 Systemd 服务文件
 
 ```
