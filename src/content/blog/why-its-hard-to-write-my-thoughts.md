@@ -5,6 +5,7 @@ tags:
   - "思想"
   - "表达"
 date: 2025-04-21
+id: "why-its-hard-to-write-my-thoughts"
 ---
 
 我发现越来越无法用文字记录出自己内心中所想的感悟了。
